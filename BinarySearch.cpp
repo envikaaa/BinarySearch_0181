@@ -14,7 +14,7 @@ void input()
 
         if (nPanjang <= 10)
         {
-            
+            break;
         }
     }
 }
