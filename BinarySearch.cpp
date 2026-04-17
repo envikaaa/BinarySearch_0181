@@ -11,5 +11,10 @@ void input()
     {
         cout << "Masukkan banyak elemen pada array (maksimal 10) : ";
         cin >> nPanjang;
+
+        if (nPanjang <= 10)
+        {
+            
+        }
     }
 }
